@@ -24,3 +24,4 @@ and then send it to this bot and it will send you a .vcf file which you can impo
 
 ## Future Scope
 1. CLI interface for the bot to make it more user friendly
+2. Improve converter module to make it more efficient
