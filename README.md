@@ -6,10 +6,11 @@ First you need to take a copy of the google form sheet and then delete trivial c
 
 It should be like this:
 
-Name | Phone Number | 
-John | 1234567890 |
-Jane | 0987654321 |
-
+'''
+Name | Phone Number
+John | 1234567890
+Jane | 0987654321
+'''
 
 and then send it to this bot and it will send you a .vcf file which you can import to your phone contacts.
 
